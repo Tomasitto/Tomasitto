@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Artem. I'm interested in backend development and data science. M
+My name is Artem . I'm interested in backend development and data science. M
 
 I'm currently studying at Yandex.Practicum Data science course.
 
